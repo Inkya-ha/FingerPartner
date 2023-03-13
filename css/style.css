@@ -1,0 +1,141 @@
+@font-face {
+    font-family: "Noto Sans JP";
+    src: url(../fonts/NotoSansJP.otf);
+}
+
+*{
+    font-family: "Noto Sans JP";
+}
+
+body{
+    text-align: center;
+}
+
+#navbar{
+    background-color: #7c09ff;
+}
+
+.label1{
+    background: #c2edff;/*背景色*/
+    padding: 0.25em;/*文字まわり（上下左右）の余白*/
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.mg-1{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.text-orange{
+    color: #FF641E;
+}
+
+.load-fade-50ms {
+	opacity: 0;
+	visibility: hidden;
+	transition: all 1s;
+}
+
+.load-fade-50ms.is-show {
+	opacity: 1;
+	visibility: visible;
+}
+
+.load-fade-100ms {
+	opacity: 0;
+	visibility: hidden;
+	transition: all 1s;
+}
+
+.load-fade-100ms.is-show {
+	opacity: 1;
+	visibility: visible;
+}
+
+.load-fade-150ms {
+	opacity: 0;
+	visibility: hidden;
+	transition: all 1s;
+}
+
+.load-fade-150ms.is-show {
+	opacity: 1;
+	visibility: visible;
+}
+
+.load-fade-200ms {
+	opacity: 0;
+	visibility: hidden;
+	transition: all 1s;
+}
+
+.load-fade-200ms.is-show {
+	opacity: 1;
+	visibility: visible;
+}
+
+.load-fade-250ms {
+	opacity: 0;
+	visibility: hidden;
+	transition: all 1s;
+}
+
+.load-fade-250ms.is-show {
+	opacity: 1;
+	visibility: visible;
+}
+
+.anim-box.poyoyon3.is-animated {
+	animation: poyoyon3 2.5s infinite;
+	opacity: 1;
+}
+
+@keyframes poyoyon3 {
+
+	0%,
+	40% {
+		transform: skew(0deg, 0deg);
+	}
+
+	5% {
+		transform: skew(5deg, 5deg);
+	}
+
+	10% {
+		transform: skew(-4deg, -4deg);
+	}
+
+	15% {
+		transform: skew(3deg, 3deg);
+	}
+
+	20% {
+		transform: skew(-2deg, -2deg);
+	}
+
+	25% {
+		transform: skew(1deg, 1deg);
+	}
+
+	30% {
+		transform: skew(-0.6deg, -0.6deg);
+	}
+
+	35% {
+		transform: skew(0.3deg, 0.3deg);
+	}
+}
+
