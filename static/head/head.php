@@ -5,6 +5,9 @@
 <!--SEOSETTING-->
 <meta name="Keywords" content="Finger,Partner,finger,partner,fingerpartner,FingerPartner,フィンガー,パートナー,フィンガーパートナー,ふぃんがーぱーとなー,キーボード,自作キーボード,オーダーメイド,自作,オーダーメイドキーボード,カスタムキーボード,">
 <meta name="description" content="FingerPartnerはお客様に快適かつ高性能なオーダーメイドキーボードサービスを提供し、世界に一つだけの自分だけのキーボードを作ることができます。">
+<!--Favicon-->
+<link rel="apple-touch-icon" type="image/png" href="./image/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="./image/icon-192x192.png">
 <!--OGP SETTING-->
 <meta property="og:url" content="https://finger-partner.jp/">
 <meta property="og:title" content="FingerPartner｜自分だけのオーダーメイドキーボード">
