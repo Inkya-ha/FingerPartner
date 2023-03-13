@@ -49,9 +49,7 @@
                     </li>
                 </ul>
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a class="nav-link active text-light" aria-current="page" href="./login">ログイン</a>
-                    </li>
+                    <!--右寄せバージョン-->
                 </ul>
             </div>
         </div>
