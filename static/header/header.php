@@ -37,13 +37,13 @@
                         <a class="nav-link dropdown-toggle active text-light" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">商品紹介</a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li>
-                                <a class="dropdown-item" href="./Licence">キーボード</a>
+                                <a class="dropdown-item" href="./">キーボード</a>
                             </li>
                             <li>
-                                <a class="dropdown-item" href="./Privacy">キーキャップ</a>
+                                <a class="dropdown-item" href="./">キーキャップ</a>
                             </li>
                             <li>
-                                <a class="dropdown-item" href="./Commerce">キースイッチ</a>
+                                <a class="dropdown-item" href="./">キースイッチ</a>
                             </li>
                         </ul>
                     </li>
