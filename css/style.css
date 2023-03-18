@@ -139,3 +139,29 @@ body{
 	}
 }
 
+.scroll-up {
+	opacity: 0;
+	visibility: hidden;
+	transform: translateY(50px);
+	transition: all 1s;
+}
+
+.scroll-up.is-show {
+	opacity: 1;
+	visibility: visible;
+	transform: translateY(0px);
+}
+
+.scroll-up2 {
+	opacity: 0;
+	visibility: hidden;
+	transform: translateY(50px);
+	transition: all 2s;
+}
+
+.scroll-up2.is-show {
+	opacity: 1;
+	visibility: visible;
+	transform: translateY(0px);
+}
+
