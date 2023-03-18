@@ -72,7 +72,7 @@
                         <img class="my-5 w-100 scroll-up" src="./image/source/check.svg" height="auto">
                     </div>
                     <div class="col d-flex align-items-center scroll-up2">
-                        <p class="mb-0">動作確認<br>キーボードが完成したら、動作確認を行います。動作確認終了後、キーボードを殺菌洗浄消毒をします</p>
+                        <p class="mb-0">動作確認<br>キーボードが完成したら、動作確認を行います。動作確認終了後、キーボードを殺菌洗浄消毒をします。アルコール消毒が出来ない性質や材質を持った部品がある場合、消毒はできません</p>
                     </div>
                 </div>
                 <div class="row">
