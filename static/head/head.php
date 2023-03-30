@@ -12,7 +12,7 @@
 <meta property="og:url" content="https://finger-partner.jp/">
 <meta property="og:title" content="FingerPartner｜自分だけのオーダーメイドキーボード">
 <meta property="og:description" content="世界に一つの自分だけのオーダーメイドキーボードを作ろう">
-<meta property="og:type" content="website">
+<meta property="og:type" content="<?php if($_SERVER["REQUEST_URI"] == "/"){echo "website";}else{echo "article";}?>">
 <meta property="og:image" content="https://finger-partner.jp/image/ogp_1200x630.png">
 <!--BootStrap-->
 <link rel="stylesheet" href="./css/bootstrap.min.css">
