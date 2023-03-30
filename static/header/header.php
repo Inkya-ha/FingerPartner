@@ -39,6 +39,9 @@
                             <li>
                                 <a class="dropdown-item" href="./Step">配送までの流れ</a>
                             </li>
+                            <li>
+                                <a class="dropdown-item" href="./Warranty">保証について</a>
+                            </li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">

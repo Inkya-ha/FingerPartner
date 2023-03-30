@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
     <?php include_once __DIR__ . "/static/head/head.php"; ?>
-    <title>サービス概要｜FingerPartner</title>
+    <title>配送ステップ｜FingerPartner</title>
 </head>
 <body>
     <?php include_once __DIR__ . "/static/header/header.php"; ?>
