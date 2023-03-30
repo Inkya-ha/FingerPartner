@@ -42,6 +42,12 @@
                             <li>
                                 <a class="dropdown-item" href="./Warranty">保証について</a>
                             </li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="./FAQ">よくある質問【Q&A】</a>
+                            </li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
