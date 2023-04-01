@@ -11,17 +11,23 @@
             <div class="background-design">
                 <img src="./image/background.svg" alt="FingerPartner">
             </div>
-            <svg class="arrows">
-                <path class="a1" d="M0 0 L30 32 L60 0"></path>
-                <path class="a2" d="M0 20 L30 52 L60 20"></path>
-                <path class="a3" d="M0 40 L30 72 L60 40"></path>
-            </svg>
-        </div><div style="margin-top: 25vh;"></div>
+        </div>
+        <div style="margin-top: 25vh;"><!--改行タグ--></div>
         <div id="content">
             <div id="content-one">
                 <p class="fs-1">お客様に合った商品を</p>
                 <hr>
                 <p class="fs-6">お客様のご意見を真摯に受け止め、お客様の理想なオリジナルキーボードを製作します。</p>
+            </div>
+            <div id="content-two">
+                <p class="fs-1">お客様の安心安全を</p>
+                <hr>
+                <p class="fs-6">お客様の安心安全を第一に考慮し、お客様のことを十分に考慮した上お取引を行います。</p>
+            </div>
+            <div id="content-three">
+                <p class="fs-1">お客様の未来・将来を</p>
+                <hr>
+                <p class="fs-6">お客様が未来・将来使っていただけるような理想なキーボードを実現し、「買ってよかった」という満足度を実現します。</p>
             </div>
         </div>
     </main>

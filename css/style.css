@@ -222,80 +222,6 @@ body{
 	width: 100%;
 }
 
-.arrows {
-	width: 60px;
-	height: 72px;
-	position: absolute;
-	left: 50%;
-	margin-left: -30px;
-	bottom: 20px;
-}
-
-.arrows path {
-	stroke: #2994D1;
-	fill: transparent;
-	stroke-width: 1px;
-	animation: arrow 2s infinite;
-	-webkit-animation: arrow 2s infinite;
-}
-
-@keyframes arrow {
-	0% {
-		opacity: 0
-	}
-
-	40% {
-		opacity: 1
-	}
-
-	80% {
-		opacity: 0
-	}
-
-	100% {
-		opacity: 0
-	}
-}
-
-@-webkit-keyframes arrow
-
-/*Safari and Chrome*/
-	{
-	0% {
-		opacity: 0
-	}
-
-	40% {
-		opacity: 1
-	}
-
-	80% {
-		opacity: 0
-	}
-
-	100% {
-		opacity: 0
-	}
-}
-
-.arrows path.a1 {
-	animation-delay: -1s;
-	-webkit-animation-delay: -1s;
-	/* Safari 和 Chrome */
-}
-
-.arrows path.a2 {
-	animation-delay: -0.5s;
-	-webkit-animation-delay: -0.5s;
-	/* Safari 和 Chrome */
-}
-
-.arrows path.a3 {
-	animation-delay: 0s;
-	-webkit-animation-delay: 0s;
-	/* Safari 和 Chrome */
-}
-
 #content{
 	text-align: left;
 	padding: 5vh;
@@ -305,4 +231,20 @@ body{
 	box-shadow: 0px 0px 15px 0px #4c00ff;
 	border-radius: 0px;
 	padding: 30px;
+	margin-bottom: 8vh;
 }
+
+#content-two{
+	box-shadow: 0px 0px 15px 0px #ff00e1;
+	border-radius: 0px;
+	padding: 30px;
+	margin-bottom: 8vh;
+}
+
+#content-three{
+	box-shadow: 0px 0px 15px 0px #ff0026;
+	border-radius: 0px;
+	padding: 30px;
+	margin-bottom: 8vh;
+}
+
