@@ -9,7 +9,7 @@ if (isset($_SESSION['USER'])) {
 // ログイン機能
 $error_message = '';
 if(isset($_POST['login'])) { // name="login"と対応している
-    if($_POST['password'] == 'FingerParter1234') { // パスワード
+    if($_POST['password'] == 'FingerPartner1234') { // パスワード
         $_SESSION['USER'] = 'user'; // 
         header('Location: index.php');
         exit;
