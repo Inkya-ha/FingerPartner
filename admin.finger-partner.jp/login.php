@@ -39,6 +39,6 @@ if(isset($_POST['login'])) { // name="login"と対応している
                 <button type="submit" name="login" size="" value="">送信</button>
             </p>
         </form>
-        </div>
+    </div>
 </body>
 </html>
