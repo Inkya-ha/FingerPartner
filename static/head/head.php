@@ -18,5 +18,3 @@
 <link rel="stylesheet" href="./css/bootstrap.min.css">
 <!--CSS-->
 <link rel="stylesheet" href="./css/style.css">
-<!--GoogleAdSense-->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7727395029645545" crossorigin="anonymous"></script>
