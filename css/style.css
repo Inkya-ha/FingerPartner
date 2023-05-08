@@ -248,3 +248,25 @@ body{
 	margin-bottom: 8vh;
 }
 
+.requests-box{
+	background-color: black;
+	padding: 10vh;
+}
+.requests-box p{
+	color: white;
+}
+
+.btn--orange,
+a.btn--orange {
+  color: #fff;
+  background-color: #eb6100;
+}
+.btn--orange:hover,
+a.btn--orange:hover {
+  color: #fff;
+  background: #f56500;
+}
+
+a.btn--radius {
+   border-radius: 100vh;
+}
