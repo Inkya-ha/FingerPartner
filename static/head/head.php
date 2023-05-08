@@ -18,3 +18,5 @@
 <link rel="stylesheet" href="./css/bootstrap.min.css">
 <!--CSS-->
 <link rel="stylesheet" href="./css/style.css">
+<!--MobileSize-->
+<?php if(preg_match('/iPhone|iPod|iPad|Android|BlackBerry|Windows Phone/',$_SERVER['HTTP_USER_AGENT'])){echo '<style>body{font-size:90%;}</style>';}?>
